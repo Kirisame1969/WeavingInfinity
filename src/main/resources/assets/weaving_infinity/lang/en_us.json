@@ -1,0 +1,13 @@
+{
+  "itemGroup.weaving_infinity": "Example Mod Tab",
+  "block.weaving_infinity.example_block": "Example Block",
+  "item.weaving_infinity.example_item": "Example Item",
+
+  "weaving_infinity.configuration.title": "Weaving Infinity Configs",
+  "weaving_infinity.configuration.section.weaving_infinity.common.toml": "Weaving Infinity Configs",
+  "weaving_infinity.configuration.section.weaving_infinity.common.toml.title": "Weaving Infinity Configs",
+  "weaving_infinity.configuration.items": "Item List",
+  "weaving_infinity.configuration.logDirtBlock": "Log Dirt Block",
+  "weaving_infinity.configuration.magicNumberIntroduction": "Magic Number Text",
+  "weaving_infinity.configuration.magicNumber": "Magic Number"
+}
