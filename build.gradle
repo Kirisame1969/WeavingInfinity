@@ -14,6 +14,9 @@ group = mod_group_id
 
 repositories {
     // Add here additional repositories if required by some of the dependencies below.
+    //maven{
+    //    url = "https://cursemaven.com"
+    //}
 }
 
 base {
@@ -120,7 +123,7 @@ dependencies {
     // implementation "blank:coolmod-${mc_version}:${coolmod_version}"
 
     // Example mod dependency using a file as dependency
-    // implementation files("libs/coolmod-${mc_version}-${coolmod_version}.jar")
+    implementation files("libs/irons_spellbooks-${minecraft_version}-${irons_spellbooks_version}.jar")
 
     // Example project dependency using a sister or child project:
     // implementation project(":myproject")
@@ -128,6 +131,9 @@ dependencies {
     // For more info:
     // http://www.gradle.org/docs/current/userguide/artifact_dependencies_tutorial.html
     // http://www.gradle.org/docs/current/userguide/dependency_management.html
+
+    //deobfCompile 'curse.maven:ironsspellsnspellsbooks-855414:7271541'
+
 }
 
 // This block of code expands all declared replace properties in the specified resource targets.
