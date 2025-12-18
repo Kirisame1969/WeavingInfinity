@@ -1,12 +1,14 @@
 {
   "required": true,
+  "minVersion": "0.8",
   "package": "com.kirisame1969.weaving_infinity.mixin",
   "compatibilityLevel": "JAVA_21",
-  "mixins": [],
+  "refmap": "weaving_infinity.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
   "injectors": {
     "defaultRequire": 1
-  },
-  "overwrites": {
-    "requireAnnotations": true
   }
 }

@@ -1,13 +1,19 @@
 {
-  "itemGroup.weaving_infinity": "Example Mod Tab",
-  "block.weaving_infinity.example_block": "Example Block",
-  "item.weaving_infinity.example_item": "Example Item",
-
-  "weaving_infinity.configuration.title": "Weaving Infinity Configs",
-  "weaving_infinity.configuration.section.weaving_infinity.common.toml": "Weaving Infinity Configs",
-  "weaving_infinity.configuration.section.weaving_infinity.common.toml.title": "Weaving Infinity Configs",
-  "weaving_infinity.configuration.items": "Item List",
-  "weaving_infinity.configuration.logDirtBlock": "Log Dirt Block",
-  "weaving_infinity.configuration.magicNumberIntroduction": "Magic Number Text",
-  "weaving_infinity.configuration.magicNumber": "Magic Number"
+  "item.weaving_infinity.spell_core": "Spell Core",
+  "item.weaving_infinity.spell_core.empty": "Empty",
+  "item.weaving_infinity.spell_core.modules": "Modules:",
+  
+  "module.weaving_infinity.fireball": "Fireball",
+  "module.weaving_infinity.fireball.desc": "Launches a fireball that deals damage to enemies when it hits",
+  "module.weaving_infinity.split_on_hit": "Split On Hit",
+  "module.weaving_infinity.split_on_hit.desc": "When the fireball hits a target, it splits into three smaller fireballs",
+  
+  "command.spellcore.not_holding_core": "You must be holding a Spell Core to use this command",
+  "command.spellcore.invalid_module_id": "Invalid module ID",
+  "command.spellcore.module_not_found": "Module not found",
+  "command.spellcore.module_added": "Added module: %s",
+  "command.spellcore.module_slots_full": "Spell Core slots are full",
+  "command.spellcore.modules_cleared": "Cleared all modules",
+  "command.spellcore.no_modules": "No modules installed",
+  "command.spellcore.modules_list": "Installed modules:"
 }

@@ -1,0 +1,19 @@
+{
+  "item.weaving_infinity.spell_core": "法术核心",
+  "item.weaving_infinity.spell_core.empty": "空",
+  "item.weaving_infinity.spell_core.modules": "模块:",
+  
+  "module.weaving_infinity.fireball": "火球术",
+  "module.weaving_infinity.fireball.desc": "发射一枚火球，击中敌人时造成伤害",
+  "module.weaving_infinity.split_on_hit": "击中分裂",
+  "module.weaving_infinity.split_on_hit.desc": "火球击中目标时会分裂成三个小火球",
+  
+  "command.spellcore.not_holding_core": "您必须手持法术核心才能使用此命令",
+  "command.spellcore.invalid_module_id": "无效的模块ID",
+  "command.spellcore.module_not_found": "未找到模块",
+  "command.spellcore.module_added": "已添加模块: %s",
+  "command.spellcore.module_slots_full": "法术核心槽位已满",
+  "command.spellcore.modules_cleared": "已清除所有模块",
+  "command.spellcore.no_modules": "未安装模块",
+  "command.spellcore.modules_list": "已安装的模块:"
+}
