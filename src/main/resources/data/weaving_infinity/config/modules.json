@@ -1,0 +1,23 @@
+{
+  "fireball_module": {
+    "base_damage": 6.0,
+    "split_damage": 3.0,
+    "mana_consumption": 10,
+    "cooldown": 20,
+    "complexity": 1.0
+  },
+  "split_module": {
+    "split_count": 3,
+    "angle_between_shots": 120.0,
+    "mana_consumption": 5,
+    "cooldown": 10,
+    "complexity": 1.5
+  },
+  "explode_module": {
+    "explosion_radius": 2.0,
+    "explosion_damage": 10.0,
+    "mana_consumption": 8,
+    "cooldown": 15,
+    "complexity": 2.0
+  }
+}
